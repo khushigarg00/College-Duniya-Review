@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Rankings</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>CollegeDuniya Reviews</h1>
+       
+        
+        <!-- Search bar -->
+        <input type="text" id="searchInput" placeholder="Search by college name" onkeyup="searchTable()">
+        
+        <table id="collegeTable">
+            <thead>
+                <tr>
+                    <th>
+                        College Duniya Rank <br>
+                        <button onclick="sortTable('cd_rank', 'asc')">↑</button>
+                        <button onclick="sortTable('cd_rank', 'desc')">↓</button>
+                    </th>
+                    <th>
+                        Colleges  
+                    </th>
+                    <th>
+                        Course Fees  (₹)  
+                       <bR> 
+                        <button onclick="sortTable('course_fees', 'asc')">↑</button>
+                        <button onclick="sortTable('course_fees', 'desc')">↓</button>
+                    </th>
+                    <th>
+                        Placement Packages (₹) 
+                    </th>
+                    <th>
+                        User Reviews <br>
+                        <button onclick="sortTable('user_reviews', 'asc')">↑</button>
+                        <button onclick="sortTable('user_reviews', 'desc')">↓</button>
+                    </th>
+                    <th>
+                        Rankings <br>
+                        <button onclick="sortTable('rankings', 'asc')">↑</button>
+                        <button onclick="sortTable('rankings', 'desc')">↓</button>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Table rows will be populated by JavaScript -->
+            </tbody>
+        </table>
+        
+        <div id="loading" style="display: none;">Loading more records...</div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

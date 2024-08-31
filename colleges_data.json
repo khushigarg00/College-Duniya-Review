@@ -1,0 +1,162 @@
+[
+    {
+        "cd_rank": 1,
+        "college": "Indian Institute of Technology, Bombay",
+        "course_fees": "2,00,000",
+        "placement_package": "20,00,000",
+        "user_reviews": 9,
+        "rankings": 1
+    },
+    {
+        "cd_rank": 2,
+        "college": "Indian Institute of Technology, Delhi",
+        "course_fees": "2,00,000",
+        "placement_package": "22,00,000",
+        "user_reviews": 8,
+        "rankings": 2
+    },
+    {
+        "cd_rank": 3,
+        "college": "Indian Institute of Technology, Madras",
+        "course_fees": "2,00,000",
+        "placement_package": "18,00,000",
+        "user_reviews": 8,
+        "rankings": 3
+    },
+    {
+        "cd_rank": 4,
+        "college": "Indian Institute of Technology, Kanpur",
+        "course_fees": "2,00,000",
+        "placement_package": "17,00,000",
+        "user_reviews": 7,
+        "rankings": 4
+    },
+    {
+        "cd_rank": 5,
+        "college": "Indian Institute of Technology, Kharagpur",
+        "course_fees": "2,00,000",
+        "placement_package": "16,00,000",
+        "user_reviews": 7,
+        "rankings": 5
+    },
+    {
+        "cd_rank": 6,
+        "college": "Indian Institute of Science, Bangalore",
+        "course_fees": "1,50,000",
+        "placement_package": "15,00,000",
+        "user_reviews": 9,
+        "rankings": 6
+    },
+    {
+        "cd_rank": 7,
+        "college": "National Institute of Technology, Tiruchirappalli",
+        "course_fees": "1,50,000",
+        "placement_package": "14,00,000",
+        "user_reviews": 8,
+        "rankings": 7
+    },
+    {
+        "cd_rank": 8,
+        "college": "Indian Institute of Technology, Guwahati",
+        "course_fees": "2,00,000",
+        "placement_package": "13,00,000",
+        "user_reviews": 7,
+        "rankings": 8
+    },
+    {
+        "cd_rank": 9,
+        "college": "Indian Institute of Technology, Hyderabad",
+        "course_fees": "2,00,000",
+        "placement_package": "12,00,000",
+        "user_reviews": 8,
+        "rankings": 9
+    },
+    {
+        "cd_rank": 10,
+        "college": "Delhi Technological University",
+        "course_fees": "1,20,000",
+        "placement_package": "11,00,000",
+        "user_reviews": 7,
+        "rankings": 10
+    },
+    {
+        "cd_rank": 11,
+        "college": "Jawaharlal Nehru University, Delhi",
+        "course_fees": "1,00,000",
+        "placement_package": "10,00,000",
+        "user_reviews": 8,
+        "rankings": 11
+    },
+    {
+        "cd_rank": 12,
+        "college": "Indian Institute of Technology, Ropar",
+        "course_fees": "1,80,000",
+        "placement_package": "9,00,000",
+        "user_reviews": 7,
+        "rankings": 12
+    },
+    {
+        "cd_rank": 13,
+        "college": "Indian Institute of Technology, Jodhpur",
+        "course_fees": "1,80,000",
+        "placement_package": "8,00,000",
+        "user_reviews": 6,
+        "rankings": 13
+    },
+    {
+        "cd_rank": 14,
+        "college": "Indian Institute of Technology, Bhubaneswar",
+        "course_fees": "1,80,000",
+        "placement_package": "7,00,000",
+        "user_reviews": 6,
+        "rankings": 14
+    },
+    {
+        "cd_rank": 15,
+        "college": "Indian Institute of Technology, Gandhinagar",
+        "course_fees": "1,80,000",
+        "placement_package": "6,00,000",
+        "user_reviews": 6,
+        "rankings": 15
+    },
+    {
+        "cd_rank": 16,
+        "college": "National Institute of Technology, Warangal",
+        "course_fees": "1,50,000",
+        "placement_package": "5,00,000",
+        "user_reviews": 7,
+        "rankings": 16
+    },
+    {
+        "cd_rank": 17,
+        "college": "National Institute of Technology, Surathkal",
+        "course_fees": "1,50,000",
+        "placement_package": "4,50,000",
+        "user_reviews": 7,
+        "rankings": 17
+    },
+    {
+        "cd_rank": 18,
+        "college": "National Institute of Technology, Calicut",
+        "course_fees": "₹1,50,000",
+        "placement_package": "₹4,00,000",
+        "user_reviews": 6,
+        "rankings": 18
+    },
+    {
+        "cd_rank": 19,
+        "college": "Birla Institute of Technology and Science, Pilani",
+        "course_fees": "2,20,000",
+        "placement_package": "3,50,000",
+        "user_reviews": 7,
+        "rankings": 19
+    },
+    {
+        "cd_rank": 20,
+        "college": "Vellore Institute of Technology",
+        "course_fees": "2,00,000",
+        "placement_package": "3,00,000",
+        "user_reviews": 7,
+        "rankings": 20
+    }
+]

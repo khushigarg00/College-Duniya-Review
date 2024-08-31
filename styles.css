@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #1e1e1e 0%, #2d2d2d 100%); /* Dark gradient */
+    color: #f5f5f5; /* Light text color */
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    background-color: #030303; /* Dark blue-gray background for the container */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5); /* Darker shadow for depth */
+    border-radius: 12px; /* Slightly rounded corners */
+    width: 80%;
+    max-height: 80vh;
+    overflow: auto;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #e0e0e0; /* Light gray color for the header */
+    font-size: 2em; /* Larger font size for the header */
+    font-weight: 700; /* Bold header */
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 12px;
+    margin: 20px 0;
+    border: 2px solid #ffffff; /* Vibrant blue border for input */
+    border-radius: 4px;
+    font-size: 16px;
+    color: #000000; /* Light text color */
+    background-color: #3b4d6a; /* Darker background for input */
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.3); /* Inner shadow for depth */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse; /* Ensures borders between cells are merged */
+    margin-top: 20px;
+    border: 3px solid #ffffff; /* Vibrant blue border around the entire table */
+    border-radius: 8px; /* Rounded corners for the table */
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border: 2px solid #2e3b4e; /* Dark blue-gray borders for cells */
+}
+
+th {
+    background-color: #1a202c; /* Darker background for header */
+    color: #f5f5f5; /* Light text color */
+    font-size: 1.1em; /* Slightly larger font size for headers */
+}
+
+tr:nth-child(even) {
+    background-color: #2e3b4e; /* Dark blue-gray background for even rows */
+}
+
+tr:nth-child(odd) {
+    background-color: #3b4d6a; /* Slightly lighter blue-gray background for odd rows */
+}
+
+button {
+    background: none;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    color: #4e9af1; /* Vibrant blue color */
+    margin-left: 5px;
+    transition: color 0.3s; /* Smooth color transition on hover */
+}
+
+button:hover {
+    color: #3b7dd8; /* Slightly lighter blue on hover */
+}
+
+#loading {
+    margin-top: 20px;
+    font-size: 16px;
+    color: #4e9af1; /* Vibrant blue color */
+    font-weight: 600; /* Bold text */
+}
